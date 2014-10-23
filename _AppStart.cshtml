@@ -1,0 +1,12 @@
+﻿@{
+    App.CacheDuration = 30;     // cache content pages for 30 minutes
+
+    // register for main contents which will appear as tabs on the navigation bar
+    App.ContentPages = new[] {
+        new ContentSource("Blog", "Blogs", "~/Contents/_Blog.cshtml", false),
+        new ContentSource("Twitter", "Tweets", "~/Contents/_Twitter.cshtml", false),
+        new ContentSource("Photos", "Photos", "~/Contents/_Photos.cshtml", false),
+        new ContentSource("Personal Links", "Personal Links", "~/Contents/_Links.cshtml",false),
+        new ContentSource("Useful Sites", "Useful Sites", "~/Contents/_Sites.cshtml",false)
+    };
+}
