@@ -52,12 +52,7 @@ table {
 /* Main Styles */
 
 body {
-<<<<<<< HEAD
-    font-size: 18px;
-    line-height: 35px;
-=======
     font-size: 13px;
->>>>>>> c40e365373ba58d1c4f199631118a688e2256da7
     font-family: 'Tahoma', 'Helvetica', 'Arial', sans-serif;
     color: #323232;
     background: #f7f5f0 url(../images/background.png) no-repeat right top;
@@ -65,29 +60,17 @@ body {
 }
 
 a {
-<<<<<<< HEAD
-   # background-color: #436EEE;
-=======
     background-color: #b6ebe3;
->>>>>>> c40e365373ba58d1c4f199631118a688e2256da7
     text-decoration: none;
 }
 
     a:hover {
-<<<<<<< HEAD
-        color: #436EEE;
-    }
-
-#page {
-    width: 1340px;
-=======
         background-color: #323232;
         color: #b6ebe3;
     }
 
 #page {
     width: 940px;
->>>>>>> c40e365373ba58d1c4f199631118a688e2256da7
     margin: 0 auto;
 }
 
@@ -121,33 +104,19 @@ nav {
     }
 
         nav a:hover {
-<<<<<<< HEAD
-            color: #436EEE;
-            border-bottom: 2px solid #436EEE;
-=======
             background-color: #323232;
             color: #b6ebe3;
             border-top: 2px solid #b6ebe3;
->>>>>>> c40e365373ba58d1c4f199631118a688e2256da7
         }
 
         nav a.current {
             background-color: #323232;
-<<<<<<< HEAD
-            color: #436EEE;
-            border-top: 2px solid #436EEE;
-        }
-
-section {
-    width: 800px;
-=======
             color: #b6ebe3;
             border-top: 2px solid #b6ebe3;
         }
 
 section {
     width: 450px;
->>>>>>> c40e365373ba58d1c4f199631118a688e2256da7
     background-color: #fff;
     float: left;
     padding: 20px;
@@ -315,11 +284,3 @@ ul.thumbnails {
 {
     display: none;
 }
-<<<<<<< HEAD
-
-ul.Links {
-    display: block;
-    list-style-type: disc;
-}
-=======
->>>>>>> c40e365373ba58d1c4f199631118a688e2256da7
