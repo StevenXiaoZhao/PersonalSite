@@ -61,13 +61,12 @@ body {
 }
 
 a {
-   # background-color: #b6ebe3;
+   # background-color: #436EEE;
     text-decoration: none;
 }
 
     a:hover {
-        background-color: #323232;
-        color: #b6ebe3;
+        color: #436EEE;
     }
 
 #page {
@@ -105,15 +104,14 @@ nav {
     }
 
         nav a:hover {
-            background-color: #323232;
-            color: #b6ebe3;
-            border-top: 2px solid #b6ebe3;
+            color: #436EEE;
+            border-bottom: 2px solid #436EEE;
         }
 
         nav a.current {
             background-color: #323232;
-            color: #b6ebe3;
-            border-top: 2px solid #b6ebe3;
+            color: #436EEE;
+            border-top: 2px solid #436EEE;
         }
 
 section {
